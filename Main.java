@@ -1,3 +1,6 @@
+//Создать список по аналогии LinkedList (список связанных элементов), реализовать в нем iterable интерфейс. 
+//Список должен содержать элементы со ссылкой на следующий элемент
+
 public class Main {
     public static void main(String[] args) {
         MyLinkedList linkedList = new MyLinkedList();
